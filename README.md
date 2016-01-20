@@ -8,7 +8,7 @@ It was started by Thomas Jochmann and Jenny Güllmar at Invigon GmbH, Jena, Germ
 Methods
 -------
 
-Developped and tested under Visual Studio 2012 using .NET 4.0.
+Developed and tested under Visual Studio 2012 using .NET 4.0.
 
 The classification of the typical patterns in a multiple choice test is based on a support vector machine (SVM). Thanks to Chih-Chung Chang and Chih-Jen Lin for their LIBSVM library.
 
