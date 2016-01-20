@@ -3,7 +3,7 @@ StrokeRecognitionLib
 
 The StrokeRecognitionLib is a .NET library for the analysis of digital pen data. The library was developed for the examination of assessment tests with multiple choice questions and handwritten text answers.
 
-It was started by Thomas Jochmann and Jenny Güllmar at Invitronic GmbH, Jena, Germany.
+It was started by Thomas Jochmann and Jenny GÃ¼llmar at Invigon GmbH, Jena, Germany.
 
 Methods
 -------
